@@ -1,0 +1,7 @@
+segment,customer_count,pct_customers,revenue,pct_revenue
+Champions,1333,22.74,11718249.08,68.64
+Loyal,1366,23.31,2807786.29,16.45
+"At Risk - High Value",843,14.38,1755025.54,10.28
+"Needs Attention",1067,18.21,420141.36,2.46
+Churned,810,13.82,199114.96,1.17
+New,442,7.54,171671.38,1.01
